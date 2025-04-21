@@ -1,0 +1,7 @@
+Improves the profile picture display
+
+Updated the profile picture component to display the full image size and fixed the styling inconsistencies.  Specifically, changed class names in `client/src/components/Hero.tsx` to adjust image size and shape.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: 81ea5db5-75cc-4a65-9b0e-4231bd5c98f3
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/52ba9522-85ae-4b3a-8859-68ecdb494db0/f7ba58fb-74a3-4720-89e9-aba9c1072bf0.jpg
